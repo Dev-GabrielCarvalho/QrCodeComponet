@@ -36,3 +36,19 @@ h5{
     text-align: center;
     margin: auto;
 }
+
+@media (max-width: 355px) {
+  html {
+    font-size: 50%;
+  }
+  body {
+    background-image: url(./images/pattern-background-mobile.svg);
+    background-position: top;
+    background-repeat: no-repeat;
+  }
+}
+@media (max-width: 285px) {
+  html {
+    font-size: 37.5%;
+  }
+}
