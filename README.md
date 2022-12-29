@@ -10,4 +10,4 @@ Essa foi o projeto inicial do Frontend Mentor que o objetivo é a criação de u
 - CSS3
 
 # Sobre Mim
-![Sobre Mim] : (https://www.linkedin.com/in/gabrielcarvalhoo/)
+(https://www.linkedin.com/in/gabrielcarvalhoo/)
